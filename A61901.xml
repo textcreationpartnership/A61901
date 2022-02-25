@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of publick baptism a sermon / preached before the Right Honourable the Lord Mayor and the Court of Aldermen at Guild-Hall Chapel, Sunday, Nov. 20, 1692 by Philip Stubs.</title>
+            <author>Stubs, Philip, 1665-1738.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61901</idno>
+            <idno type="STC">Wing S6079</idno>
+            <idno type="STC">ESTC R28859</idno>
+            <idno type="EEBO-CITATION">10768032</idno>
+            <idno type="OCLC">ocm 10768032</idno>
+            <idno type="VID">45772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1411:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of publick baptism a sermon / preached before the Right Honourable the Lord Mayor and the Court of Aldermen at Guild-Hall Chapel, Sunday, Nov. 20, 1692 by Philip Stubs.</title>
+                  <author>Stubs, Philip, 1665-1738.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Bonwicke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45772:1"/>
+            <p>Mr. <hi>STUBS</hi>'S SERMON OF <hi>Publick Baptiſm,</hi> BEFORE THE LORD MAYOR, &amp;c.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:45772:2"/>
+            <p>
+               <hi>Fleet, Major:</hi> Martis, <hi>vj. Die</hi> Decembris, 1692. <hi>Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regis &amp; Reginae,</hi> Williel<g ref="char:EOLhyphen"/>mi <hi>&amp;</hi> Mariae, Angl' <hi>&amp;c. Quarto.</hi>
+            </p>
+            <p>THis Court doth deſire Mr. <hi>Stubs</hi> to Print his Sermon, Preached at <hi>Guild-Hall-Chapel,</hi> on <hi>Sunday</hi> the 20<hi rend="sup">th</hi> Day of <hi>November</hi> laſt, before the Lord Mayor and Aldermen of this City.</p>
+            <p>
+               <hi>GOODFELLOW.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <p>
+               <hi>Decembr.</hi> 9. 1692.</p>
+            <p>Guil. Lancaſter, R. P. D. Henrico <hi>Epiſc.</hi> Lond. <hi>a ſacris Domeſticis.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:45772:2"/>
+            <p>OF <hi>Publick Baptiſm.</hi> A SERMON Preached before the Right Honourable THE LORD MAYOR, AND THE <hi>Court of Aldermen,</hi> AT <hi>Guild-Hall-Chapel,</hi> Sunday, Nov. 20. 1692.</p>
+            <p>By <hi>PHILIP ST<g ref="char:V">Ʋ</g>BS,</hi> A. M. Fellow of <hi>Wadham-College, Oxon.</hi> And Chaplain to the Right Reverend Father in God, <hi>ROBERT</hi> Lord Biſhop of <hi>CHICHESTER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Bonwicke,</hi> at the <hi>Red Lion</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCXCIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45772:3"/>
+            <pb facs="tcp:45772:3"/>
+            <head>TO THE RIGHT HONOURABLE Sir <hi>JOHN FLEET,</hi> Kt. LORD MAYOR Of the CITY of LONDON, And to the Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE unexpected Succeſs this plain Diſcourſe (by the Bleſſing of God) met with from a <hi>kind</hi> Auditory in this City, (for whoſe private Benefit 'twas, not long ſince, I muſt con<g ref="char:EOLhyphen"/>feſs, but too haſtily drawn up;) as it prompted me at firſt to offer it before the moſt publick Aſſembly therein at <hi>Guild-Hall-Chapel;</hi>
+               <pb facs="tcp:45772:4"/>ſo the Hopes of its farther <g ref="char:V">Ʋ</g>ſefulneſs makes me now readily comply with Your Honour's Commands for its Publication, in order thereunto. That it may have its deſign'd Effect, in contribu<g ref="char:EOLhyphen"/>ting (though never ſo little) to the Re<g ref="char:EOLhyphen"/>trieving ſo Ancient, ſo <g ref="char:V">Ʋ</g>niverſal, ſo Religious, I may ſay, ſo neceſſary a Practice, as is the ſubject Matter of it; and, by Conſequence, to the farther Pro<g ref="char:EOLhyphen"/>moting of God's Glory, in the greater Good of his Church in general, and the Welfare of particular Chriſtians, is the Hearty Deſire of,</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <hi>Your moſt Humble, Moſt Obedient Servant,</hi>
+               <signed>PHIL. ST<g ref="char:V">Ʋ</g>BS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:45772:4"/>
+            <head>A SERMON Before the LORD MAYOR, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>St. MATTH. xxviij. 19.</bibl>
+                  <p>
+                     <hi>Go ye therefore, and teach all Nations; baptizing them in the Name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE Text is a full Commiſſion, deli<g ref="char:EOLhyphen"/>ver'd out by our Saviour to his Apo<g ref="char:EOLhyphen"/>ſtles, when he had juſt finiſh'd the glorious work of our Redemption, and was now Aſcending up again unto his Fa<g ref="char:EOLhyphen"/>ther: whereby he impowers them to extend the benefits of his Paſſion by <hi>Baptiſm,</hi> as far as he deſign'd they ſhould reach, even to the ut<g ref="char:EOLhyphen"/>moſt parts of the Earth: For as he himſelf had ſpent his whole time in <hi>Judea,</hi> and the Regions thereabout, amongſt the <hi>Jews,</hi> God's peculiar
+<pb n="2" facs="tcp:45772:5"/>People; ſo he commands them, whom he had fully inſtructed in every Particular of his Do<g ref="char:EOLhyphen"/>ctrine, to communicate it to the <hi>Gentiles.</hi>
+            </p>
+            <p>
+               <hi>Go ye therefore, and teach all Nations; bapti<g ref="char:EOLhyphen"/>zing them in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p>From which Words, I may take Occaſion to ſpeak of theſe Five Heads.</p>
+            <p n="1">I. Of the Nature of <hi>Baptiſm</hi> in general.</p>
+            <p n="2">II. Of the Perſons here authoriz'd to <hi>Baptize.</hi>
+            </p>
+            <p n="3">III. Of the Perſons to be <hi>Baptiz'd.</hi>
+            </p>
+            <p n="4">IV. Of the Form of <hi>Baptiſm.</hi> And,</p>
+            <p>
+               <hi>Laſtly,</hi> Of the <hi>Time</hi> and <hi>Place,</hi> when and where this <hi>Sacrament</hi> ought to be adminiſtred.</p>
+            <p>Of the Four firſt (there being no difference about them, either as to Principle or Practice, amongſt thoſe of our Communion) I ſhall ſay little more at preſent, than what may ſerve by way of Introduction, as it were, to the laſt Par<g ref="char:EOLhyphen"/>ticular, which I have deſign'd for the main Sub<g ref="char:EOLhyphen"/>ject of my enſuing Diſcourſe: Wherein I ſhall, with all the Brevity and Plainneſs I can, endea<g ref="char:EOLhyphen"/>vour to demonſtrate the Unreaſonableneſs of continuing that corrupt Cuſtom crept in among us, (and which of late Years has prevail'd more eſpecially in this <hi>City,</hi>) of <hi>Baptizing</hi> Children in <hi>Private Houſes,</hi> contrary to the earneſt, pious Deſires and Endeavours of our Clergy, the de<g ref="char:EOLhyphen"/>clared
+<pb n="3" facs="tcp:45772:5"/>Senſe and Uſage of the Catholick Church all along, the expreſs Orders and Conſtitutions of that ſound Part of it, whereof we boaſt our ſelves Members, and the very Reaſon and De<g ref="char:EOLhyphen"/>ſign of the Inſtitution it ſelf; to the no ſmall Diſhonour of God Almighty, in hindring the greater Promotion of his Glory, and the Edifica<g ref="char:EOLhyphen"/>tion of many Religious, well-diſpos'd Chriſtians.</p>
+            <p>But before I enter profeſſedly upon this Ar<g ref="char:EOLhyphen"/>gument, I am to ſpeak a Word or two briefly, on the four juſt mention'd Heads. And,</p>
+            <p n="1">I. Of the Nature of <hi>Baptiſm</hi> in general.</p>
+            <p>Now Baptiſm ſignifies properly an Immerſion, Dipping, or Waſhing the whole Body in Wa<g ref="char:EOLhyphen"/>ter; and was a Ceremony uſed among the <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> as well as the <hi>Jews,</hi> upon the Admiſſion of any new Converts to their Religion: By which Waſhing was ſignified, the Cleanſing of the Per<g ref="char:EOLhyphen"/>ſons, ſo baptized, from their former Pollutions; and their Reſolution of continuing Pure and Un<g ref="char:EOLhyphen"/>ſpotted for the future. This Ceremony, being very innocent, and very ſignificant, the <hi>Holy Je<g ref="char:EOLhyphen"/>ſus</hi> was willing to continue it in his Church; leaving out the other of <hi>Circumciſion,</hi> which ſig<g ref="char:EOLhyphen"/>nified but the ſame thing, and was more injurious to Men's Health, and to their Modeſty.</p>
+            <p>I ſay, Baptiſm ſignifies properly an Immerſion, Dipping, or Waſhing the whole Body in Water:
+<pb n="4" facs="tcp:45772:6"/>And ſo it was practis'd in the Primitive Times, after the manner of <hi>John</hi>'s Baptiſm, who choſe the River <hi>Jordan,</hi> and ſuch Places, where there was much Water, for the Convenience of ſuch an Immerſion: For ſo it is expreſly ſaid of him, That John <hi>was baptizing in</hi> Enon,
+<note place="margin">S. Joh. 3.23.</note> 
+               <hi>near to</hi> Salim, <hi>becauſe there was much Water there.</hi> After this manner the Eunuch, in <hi>Acts</hi> 8. was baptized by S. <hi>Philip;</hi>
+               <note place="margin">Acts 8.38.</note> for 'tis ſaid, <hi>They went down both into the Water, both</hi> Philip <hi>and the</hi> Eunuch, <hi>and he bapti<g ref="char:EOLhyphen"/>zed him.</hi> And indeed, this Dipping all over in Water is thought by ſome, more ſignificant than any other ſort of <hi>Baptiſm;</hi> for hereby is denoted the Cleanſing the whole Man from Sin, the be<g ref="char:EOLhyphen"/>ing buried with Chriſt in Baptiſm, which is ſig<g ref="char:EOLhyphen"/>nified by the Immerſion, or Dipping in Water; and the Riſing to a Newneſs of Life, which is ſignified by the Emerſion, or Riſing out of it again. But yet it is not ſo neceſſary, but it may be omit<g ref="char:EOLhyphen"/>ted in favour of the Weakneſs of the Perſon to be baptiz'd, and the Pouring or Sprinkling of Water us'd inſtead of it; as has been the Pra<g ref="char:EOLhyphen"/>ctice of theſe <hi>Northern Countries,</hi> in the <hi>Baptiſm</hi> of Children, whoſe tender Bodies cannot endure a total Immerſion; and of the firſt Ages of the Church, in favour of Sick and Bed-rid Perſons, who deſir'd to become Chriſtians. For, as God Almighty is tender of our Souls, ſo he takes care
+<pb n="5" facs="tcp:45772:6"/>of our Bodies too; and his Laws are ſo far from injuring our Healths, that they highly improve them: Upon which Account, it is not to be ima<g ref="char:EOLhyphen"/>gin'd, that the Ceremony of Admiſſion into the Chriſtian Religion ſhould be more difficult, than that into the Jewiſh Covenant; or that Children ſhould be oblig'd to become <hi>Martyrs,</hi> as ſoon as they are made <hi>Proſelytes.</hi>
+            </p>
+            <p>But here it may be ſtarted, That, admitting this Waſhing, Dipping, or Sprinkling to be the Ceremony of my Admiſſion into Covenant with Chriſt, How doth it hence appear, that Chriſt thereby enters into Covenant with me? I may be waſhed indeed with Water; But how ſhall I be ſatisfied that Chriſt waſhes me with his Holy Spirit? For the ſatisfying of which Ob<g ref="char:EOLhyphen"/>jection, I muſt proceed to the Second Thing I deſign'd to ſpeak of, <hi>viz.</hi>
+            </p>
+            <p n="2">II. The Perſons here authoriz'd to <hi>Baptize.</hi>
+            </p>
+            <p>Whom, if we look back to <hi>Ver.</hi> 16. of this <hi>Chapter,</hi> we ſhall find to be the <hi>Apoſtles:
+<note place="margin">St. Matt. 28.16.</note> Then the Eleven Diſciples</hi> (for ſo the <hi>Apoſtles</hi> are there call'd) <hi>went away into</hi> Galilee, <hi>into a Mountain where</hi> Jeſus <hi>had appointed them:</hi> Who, when he came amongſt them, ſpake unto them, ſaying, <hi>All Power is given unto me, in Heaven,
+<note place="margin">—V. 18.</note> and in Earth: Go ye therefore and teach all Nations,
+<note place="margin">—V. 19.</note> bap<g ref="char:EOLhyphen"/>tizing them,</hi> &amp;c. As if he had ſaid, My Father
+<pb n="6" facs="tcp:45772:7"/>has left the Government of this World, which I have redeemed with my Blood, to me: I have power to make what Covenants I pleaſe with Mankind: I have told you, upon what Condi<g ref="char:EOLhyphen"/>tions I will confer Heaven and Happineſs upon Men: Go ye therefore, and let them all know it: And I give you power, and none but you, to admit them into this my new Covenant by Baptiſm. But then, the Mercy of God, as it was willing to extend the Benefits of his Paſſion be<g ref="char:EOLhyphen"/>yond that Age of the World, and that Genera<g ref="char:EOLhyphen"/>tion of Men, continu'd Means for the effectual Continuance of this Power of making ſuch Cove<g ref="char:EOLhyphen"/>nants to the End of the World, by authorizing the <hi>Apoſtles</hi> to delegate and depute their Power to others, in this large and plenary Commiſſion, <hi>As my Father hath ſent me,
+<note place="margin">S. Joh. 20 21.</note> even ſo ſend I you:</hi> I give you the ſame Authority, which I have re<g ref="char:EOLhyphen"/>ceiv'd: And as I had Power of my Father to ſend you forth to preach the Goſpel, and <hi>baptize</hi> every Creature; ſo I give you Power to ſend others forth with the ſame Commiſſion; to Or<g ref="char:EOLhyphen"/>dain <hi>Biſhops, Prieſts</hi> and <hi>Deacons,</hi> as you ſhall judge expedient for the Edifying and Welfare of my Church. Which Power was accordingly delegated, immediately afterwards, to <hi>ſeven Per<g ref="char:EOLhyphen"/>ſons</hi> at once,
+<note place="margin">Acts. 6.3. Chap. 13.3.</note> as you'll find in <hi>Acts</hi> 6. to <hi>Saul</hi> and <hi>Barnabas,</hi> to their <hi>Succeſſors,</hi> until this very Pe<g ref="char:EOLhyphen"/>riod
+<pb n="7" facs="tcp:45772:7"/>of Time; wherein we of this Communion, have Perſons under the ſeveral Characters above-mention'd, who derive their Authority from them, by an uninterrupted Succeſſion. For no Man can take this Authority upon himſelf; and unleſs there were Sacred Perſons ſo continu'd in the Church, there could, at this Day, be no Le<g ref="char:EOLhyphen"/>gal or Valid Adminiſtration of this Sacrament; and by Conſequence, our Saviour's Command would have long ſince fell to the Ground, (which I tremble to think of,) when he bid them, and, in them, their Succeſſors, <hi>Go and teach all Nations, baptizing them, &amp;c.</hi> The Meaning of which Words, <hi>All Nations,</hi> or an Enquiry,</p>
+            <p n="3">III. Into the <hi>Perſons</hi> to be <hi>Baptiz'd,</hi> is the Subject of my Third General, which now offers it ſelf to be ſpoke to; <hi>Go ye therefore and teach</hi> All Nations, <hi>baptizing them,</hi> &amp;c.</p>
+            <p>The Lord God had, for a long time, dwelt only in <hi>Judea:</hi> Though the vaſt Circle of the Earth,
+<note place="margin">2 Chron. 2.6.</note> nor the larger Circumference of the <hi>Hea<g ref="char:EOLhyphen"/>vens cannot contain him;</hi> yet, as the <hi>Pſalmiſt</hi> ex<g ref="char:EOLhyphen"/>preſſes it, <hi>at</hi> Salem <hi>was his Tabernacle,
+<note place="margin">Pſal. 76.2.</note> and his Dwelling at</hi> Sion: There was his Houſe, there his peculiar Reſidence. To the People of <hi>Iſrael</hi> only had he given his Laws, and order'd the manner of his Worſhip: The reſt of the World ſeem'd over-look'd, and neglected, like Chil<g ref="char:EOLhyphen"/>dren
+<pb n="8" facs="tcp:45772:8"/>diſ-inherited, and baniſh'd from their Fa<g ref="char:EOLhyphen"/>ther's Preſence. But when the <hi>Bleſſed Jeſus,</hi> the Word of God, by whom all Men were created, deſcended, for the Redemption of them all, he threw down the Partition-Wall which ſhut out the <hi>Gentiles</hi> from the Sight and Favour of God, and contriv'd Means for the Bringing them into his Family. He caus'd the Waters of <hi>Baptiſm</hi> to extend themſelves, as far as thoſe of the <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Deluge;</hi> that as all Men had once <hi>periſh'd</hi> by Water, ſo they ſhould all be <hi>ſaved</hi> by it.</p>
+            <p>Nor do we, when we ſay <hi>All Men only</hi> (upon ſlight Grounds) exclude the Children of Belie<g ref="char:EOLhyphen"/>vers from this extraordinary Privilege, as do the Adverſaries to <hi>Infant-Baptiſm:</hi> Who ſhould not have been mention'd in this place, (ſince their wild Opinion runs counter to the Belief and Pra<g ref="char:EOLhyphen"/>ctice of the Univerſal Church in all Ages,) did not ſome of them boaſt of an Irrefragable Argu<g ref="char:EOLhyphen"/>ment on their Side, taken from the very Words we are now about; arguing from hence, that be<g ref="char:EOLhyphen"/>cauſe our Saviour firſt ſaid <hi>Teach,</hi> before he ſaid <hi>Baptize;</hi> therefore every Body muſt be <hi>taught,</hi> be<g ref="char:EOLhyphen"/>fore he is <hi>baptiz'd.</hi> To which there need be gi<g ref="char:EOLhyphen"/>ven no other Anſwer, but what the true Mean<g ref="char:EOLhyphen"/>ing of the Original Word will readily furniſh us with: For, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the <hi>Greek,</hi> ſignifies not here <hi>Teach,</hi> as in our Tranſlation; but rather,
+<pb n="9" facs="tcp:45772:8"/>
+               <hi>make Diſciples of:</hi>
+               <note place="margin">
+                  <hi>Inter Judaeos Diſcipuli facti ſunt ii, non qui jam docti ſunt, ſed ideo Diſci<g ref="char:EOLhyphen"/>puli facti ſunt, ut doceantur.</hi> Lightfoot: Hor. Heb. ad locum.</note> As if our Saviour (alluding to a known Cuſtom among the <hi>Jews</hi>) had ſaid, Go and admit into my Church, and <hi>make Diſ<g ref="char:EOLhyphen"/>ciples of</hi> all Nations, and that by the Ceremony of <hi>Baptiſm;</hi> for (which is very remarkable) in the very next Verſe, where the Word <hi>Teaching</hi> comes again,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> there is another Word made uſe of in the Original, which has that for its proper ſig<g ref="char:EOLhyphen"/>nification. An Expoſition, which, if it were duly attended to, might be of no ſmall Uſe to many unprejudic'd Anabaptiſts. As,</p>
+            <p n="4">IV. The Form of <hi>Baptiſm</hi> here preſcribed, <hi>in the Name of the Father, and of the Son, and of the Holy Ghoſt,</hi> might be ſo to another ſort of ſeem<g ref="char:EOLhyphen"/>ingly more Rational Perſons, who yet (ſome of them) make a Difficulty in Founding the Do<g ref="char:EOLhyphen"/>ctrine of the Individual and Ever Bleſſed Tri<g ref="char:EOLhyphen"/>nity upon expreſs Words of Scripture.</p>
+            <p>For, if the being <hi>baptiz'd</hi> into <hi>the Name of the Father, and of the Son, and of the Holy Ghoſt,</hi> as the Original imports, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and not <hi>in the Name,</hi> according to our Tranſlation, which is leſs ſignificant. If, I ſay,
+<note place="margin">V. Grot. <hi>ſup. loc.</hi>
+               </note> the being <hi>baptiz'd</hi> in<g ref="char:EOLhyphen"/>to thoſe Names doth not ſignifie, the being ba<g ref="char:EOLhyphen"/>ptiz'd into the Belief of Three Perſons in one Incomprehenſible Godhead, which diſtinguiſhes the <hi>Chriſtian Baptiſm</hi> from all others; and the ſubmitting all the Faculties of our Souls and Bo<g ref="char:EOLhyphen"/>dies
+<pb n="10" facs="tcp:45772:9"/>to the Soveraign Dominion and Guidance of each of them, as ſuch; then the whole Church almoſt has been in an Error for nigh theſe 1700 Years, and a Handful of Men, whoſe Buſineſs it is now-a-days to receive old, condemn'd <hi>Hereſies,</hi> are alone in the Right.</p>
+            <p>Thus have I briefly gone through the Four firſt Particulars, which relate to the <hi>Eſſentials</hi> of <hi>Baptiſm:</hi> To all and ſingular of which, every one in our Communion is ſo ready to ſubſcribe, againſt all <hi>Anabaptiſts, Socinians,</hi> and other <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>orthodox</hi> Perſons whatever, that few would for<g ref="char:EOLhyphen"/>give themſelves, ſhould their Children by any means happen to be otherwiſe <hi>baptized</hi> than by <hi>Sprinkling them with Water,</hi> according to the U<g ref="char:EOLhyphen"/>ſage of our Country, and not by Dipping them all over in it; ſhould they not be <hi>baptiz'd</hi> by a <hi>Lawfully Ordain'd Miniſter</hi> of the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and that too, <hi>in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p n="5">V. But now, as to the <hi>Circumſtances</hi> of <hi>Time</hi> and <hi>Place,</hi> when and where this <hi>Sacrament</hi> ought to be Adminiſtred, which is my Fifth Particular, and comes now to be conſider'd more at large.
+<note place="margin">
+                  <hi>Rubr.</hi> 1. before the Office for Publick Bap<g ref="char:EOLhyphen"/>tiſm. <hi>Rubr.</hi> 2. before the Office for Private Bap<g ref="char:EOLhyphen"/>tiſm.</note>
+            </p>
+            <p>Moſt are ſo prejudic'd againſt them, by a pre<g ref="char:EOLhyphen"/>vailing <hi>Cuſtom</hi> to the contrary, that, notwith<g ref="char:EOLhyphen"/>ſtanding our Rule tells us, <hi>It ought not to be done, but upon</hi> Sundays, <hi>or</hi> Holy-days; nor Out <hi>of the</hi>
+               <pb n="11" facs="tcp:45772:9"/>Church, <hi>unleſs in Caſes of great Neceſſity:</hi> They think theſe Matters of no ſuch Importance, but that they may ſafely paſs them by, and Chriſten their Children <hi>at Home,</hi> when there is <hi>no Cauſe</hi> for it, without the leaſt Contravention to my Text, or any other place of Scripture.</p>
+            <p>To Perſons of which Complexion, I anſwer,</p>
+            <p>
+               <hi>Firſt,</hi> That although this Text is not ſtrictly producible for <hi>Publick Baptiſm,</hi> as it means <hi>Ba<g ref="char:EOLhyphen"/>ptiſm</hi> at the <hi>Font,</hi> according to the particular Con<g ref="char:EOLhyphen"/>ſtitution of our Church, which provides,
+<note place="margin">Can. &amp; Conſt. Eccleſ. <hi>Can.</hi> 81.</note> That <hi>there ſhall be a Font of Stone in every Church or Chapel, where Baptiſm is to be Adminiſtred; and there, in that Font</hi> only, <hi>the Miniſter ſhall Baptize</hi> publickly: Yet (with their Leaves) it may be urg'd for it, as far as the Deſign of the Inſtitu<g ref="char:EOLhyphen"/>tion it ſelf will warrant us, and the early and conſtant Cuſtom of the Church of Chriſt, which is the beſt Expoſitor of ſuch a Deſign.</p>
+            <p>Now that Baptiſm, even from the Church's Infancy, has been all along as publickly celebra<g ref="char:EOLhyphen"/>ted, as the preſent State of that did permit, may be fairly gather'd from the following Words of a great Searcher into the Records of the Primitive Times; which ſhall ſerve inſtead of many Quo<g ref="char:EOLhyphen"/>tations that might be brought for the Proof of the Aſſertion.
+<note place="margin">Dr. <hi>Cave</hi> in his Prim. Chriſt. part 1. c. 10.</note> 
+               <q>The Place where this ſolemn Action was perform'd, was at firſt unlimited;
+<pb n="12" facs="tcp:45772:10"/>any Place where there was Water,
+<note place="margin">
+                     <hi>Ap.</hi> 2. p. 93.</note> as <hi>Juſtin Martyr</hi> tells us: In Ponds or Lakes, in Springs or Rivers,
+<note place="margin">
+                     <hi>De Bap.</hi> adv. Quintill. cap 4.</note> as <hi>Tertullian</hi> ſpeaks: But always, as near as might be, to the place of the <hi>Publick Aſſemblies;</hi> for it was ſeldom done without the Preſence of the Congregation.</q> And then,</p>
+            <p>
+               <hi>Secondly,</hi> I anſwer farther, That though the Text before us ſhould not be ſufficient of it ſelf to ſatisfie all the beweldring Doubts of the Scru<g ref="char:EOLhyphen"/>pulous, or Perverſe, but, notwithſtanding its E<g ref="char:EOLhyphen"/>vidence, they will think themſelves ſtill at liberty to <hi>baptize</hi> either in <hi>publick</hi> or <hi>private;</hi> yet, in Conſort with ſome others that may be alledg'd, it ought certainly to be thought of ſuch Force, as to conclude them without more a-do, and im<g ref="char:EOLhyphen"/>mediately determine their Choice. Such are theſe,
+<note place="margin">3 Cor. 14.40.</note> and the like Apoſtolical Canons: <hi>Let all things be done decently,
+<note place="margin">—26.</note> and in order. Let all things be done to edifying.</hi> From which, and ſeveral other Places of Scripture of the ſame Nature,
+<note place="margin">Hor. Confeſſ. varias <hi>Aug. Sc. Helv. Baſil. Bo<g ref="char:EOLhyphen"/>hem. Belg. Sax.</hi> &amp;c.</note> it is on all Hands acknowledg'd among <hi>Proteſtants,</hi> That hereby is given to the <hi>Church</hi> Power to make De<g ref="char:EOLhyphen"/>crees about ſuch Matters as this, and others de<g ref="char:EOLhyphen"/>ſign'd there, where St. <hi>Paul</hi> tells the <hi>Corinthians,</hi> That <hi>the reſt he will ſet in order when he comes.</hi>
+               <note place="margin">1 Cor. 11.34.</note> And we of this Church expreſly aſſert,
+<note place="margin">Art. 20.</note> That <hi>ſhe has Power to decree Rites and Ceremonies, not re<g ref="char:EOLhyphen"/>pugnant
+<pb n="13" facs="tcp:45772:10"/>to the Word of God:</hi> And that the Bring<g ref="char:EOLhyphen"/>ing of Perſons to be ſolemnly <hi>baptiz'd</hi> in God's Houſe, for the general Good of Chriſtians there preſent, has no ſuch Contrariety, muſt ſtill be preſum'd, till better Topicks for Conviction be found out, than what have hitherto been offer'd.</p>
+            <p>Now, this Power being granted, as lodg'd in the Church, it will hence follow, That what our Mother doth lawfully enjoin, we are, with Readineſs and Submiſſion to aſſent to; leſt by ſtanding out againſt her <hi>obſtinately,</hi> we ſin as much againſt Heaven, who gave her this Com<g ref="char:EOLhyphen"/>miſſion, as we do againſt the Authority of the Church it ſelf.</p>
+            <p>However therefore ſome may ſtile themſelves her Children, and ſeem mightily pleas'd with the ſpecious Appellation of <hi>True Sons of the</hi> Church <hi>of</hi> England, whilſt they are guilty of ſuch an <hi>Ir<g ref="char:EOLhyphen"/>regularity</hi> as <hi>Private Baptiſm</hi> has been always rec<g ref="char:EOLhyphen"/>kon'd in it, (eſpecially when required to the contrary,) they muſt pardon others who cannot but think them highly <hi>unworthy</hi> to be call'd ſo; ſince by ſuch ſtubborn, undutiful Carriage, (were all Men as poſitive in their Refuſals as they,) her Being muſt (inevitably) be deſtroy'd as a <hi>Church,</hi> whence every one of us derive our own, as <hi>Chri<g ref="char:EOLhyphen"/>ſtians.</hi>
+            </p>
+            <pb n="14" facs="tcp:45772:11"/>
+            <p>But, to be more methodical, and to preſs this Matter with greater Application, let me crave your Patience, whilſt I tender to you the Four following Particulars.</p>
+            <p n="1">1. The expreſs Orders of our Church, with Relation to <hi>Publick Baptiſm,</hi> and the Care ſhe has taken in the Contrivance of her <hi>Form</hi> for it, ſo, that there can be no Intrenchment upon it, without a great deal of Abſurdity, as well as Diſ<g ref="char:EOLhyphen"/>obedience on their ſide,
+<note place="margin">1 Cor. 11.22.</note> who become <hi>Deſpiſers of the Church of God,</hi> by acting contrary to her Injunctions.</p>
+            <p n="2">2. That the Obedience of her Genuine Sons in this Affair, may not be Nick-nam'd, or term'd Implicit, I ſhall ſhew, that ſhe hath done nothing herein, but upon very extraordinary Motives; in that her Conſtitutions about it do not only bear a ſweet Harmony to the Practice of the <hi>Eaſtern,</hi> and all the <hi>Weſtern</hi> Churches: But,</p>
+            <p n="3">3. That the Practice of all theſe Churches is grounded upon the earlieſt Antiquity: And,</p>
+            <p n="4">4. That that Antiquity has no leſs ſolid a Ba<g ref="char:EOLhyphen"/>ſis, than the firmeſt Reaſons to ſupport it.</p>
+            <p>But of each of theſe as briefly as poſſible. And,</p>
+            <p n="1">1. Then, As to the Orders of our Church: beſides the <hi>Canon</hi> juſt now mention'd,
+<note place="margin">Can. 81.</note> where there is a <hi>Font enjoin'd to be ſet up in every</hi> Church <hi>or</hi> Chapel, <hi>where</hi> Baptiſm <hi>is to be Adminiſter'd;
+<pb n="15" facs="tcp:45772:11"/>and that in the Font</hi> only, <hi>the Miniſter ſhall Baptize</hi> publickly;
+<note place="margin">
+                  <hi>Rubrick</hi> 1ſt. of that Office.</note> the Office for <hi>Publick Baptiſm</hi> ſaith in one place, That <hi>the People are to be admoniſh'd, that it is moſt convenient that</hi> Baptiſm <hi>ſhould not be Adminiſter'd, but upon</hi> Sundays, <hi>and</hi> Holy-days, <hi>when the moſt number of People come together.</hi>
+               <note place="margin">
+                  <hi>Rubrick</hi> 2d.</note> In another place it enjoins, That <hi>when there are Chil<g ref="char:EOLhyphen"/>dren to be baptiz'd, the Parents ſhall give notice thereof over Night, or in the Morning, before the Beginning of Morning-Prayer, to the Curate: And then, the Godfathers and Godmothers, and the Peo<g ref="char:EOLhyphen"/>ple, with the Children, muſt be ready at the</hi> Font, <hi>either immediately after the Laſt Leſſon at Morning-Prayer, or elſe immediately after the Laſt Leſſon at Evening-Prayer; as the Curate, by his Diſcretion, ſhall appoint.</hi> Again, In the Office for <hi>Private Baptiſm,
+<note place="margin">
+                     <hi>Rubrick</hi> 3d.</note> The Curates of every Pariſh ſhall often ad<g ref="char:EOLhyphen"/>moniſh their Pariſhioners, that, without great Cauſe and Neceſſity, they procure not their Children to be</hi> baptiz'd at home, in their Houſes. Our Church is ſo indulgent a Mother, that ſhe permits any to be baptiz'd in <hi>Private</hi> when there is a <hi>Neceſſity</hi> for it, agreeably to the Practice of the Univerſal Church all along; and accordingly hath provided a <hi>particular Form</hi> for ſuch Exigencies:
+<note place="margin">
+                  <hi>Rubrick</hi> 5th. in the Office for Private Bapt.</note> But this ſtill with an Injunction, That <hi>afterwards they be brought to Church,</hi> that thoſe Prayers and Rites, which before were omitted in the Office, may be there publickly ſupplied.</p>
+            <pb n="16" facs="tcp:45772:12"/>
+            <p>This is the Sence of our Church in this Matter, and her Determination, and therefore ſufficient, as has been prov'd, to oblige every <hi>True Son</hi> of hers to acquieſce therein, and be conformable.</p>
+            <p>But I have yet farther to urge, That whoſo<g ref="char:EOLhyphen"/>ever will be <hi>ſtubborn,</hi> and run counter to theſe Eſtabliſhments of hers, by Chriſt'ning his Chil<g ref="char:EOLhyphen"/>dren <hi>at home,</hi> and that by the <hi>Publick Form,</hi> (which is ſtill inſiſted upon,) muſt not only be reckon'd guilty of manifeſt Diſobedience to his Mother, but is chargeable likewiſe with ſeveral groſs Ab<g ref="char:EOLhyphen"/>ſurdities in one of the ſolemneſt of God's holy Ordinances; the <hi>Publick Form</hi> being ſo contriv'd, to prevent Evaſion, or Colluſion herein, that it cannot properly be us'd any where but in the Church;
+<note place="margin">Mr. Arwaker<hi>'s Miniſtration of Publick Baptiſm of Infants to be uſed in the Ch.</hi>
+               </note> as has been well obſerv'd in a late Trea<g ref="char:EOLhyphen"/>tiſe on this Argument, to which hardly any thing can be added on this Head. For, 1. For inſtance, as the Author obſerves,
+<note place="margin">Pag. 29, <hi>&amp;c.</hi>
+               </note> When the Miniſter ſays thus to the Godfathers and Godmothers, <hi>You have brought this Child here to be baptiz'd,</hi>
+               <note place="margin">
+                  <hi>Ivo Carnotenſ.</hi> Serm. de Sa<g ref="char:EOLhyphen"/>crament. De<g ref="char:EOLhyphen"/>dicat.</note> (ac<g ref="char:EOLhyphen"/>cording to that of one of the Ancients, <hi>You were brought to</hi> Church <hi>in the Arms of your Sureties;</hi>) he ought, in a <hi>Private Houſe,</hi> to invert the Words thus, <hi>Ye have brought me here to baptize this Child.</hi> 2. How can any Miniſter uſe that Petition in the laſt Collect, before the Prayer of Conſecration, in ſuch a place, with any colour of Reaſon, when
+<pb n="17" facs="tcp:45772:12"/>he is thus to addreſs himſelf to God Almighty, <hi>Grant that whoſoever is here dedicated unto thee, by our Office and Miniſtry, may be endued,</hi> &amp;c. whilſt by <hi>Here</hi> is undoubtedly meant the <hi>Font</hi> in the Church, or the <hi>Church</hi> it ſelf, the proper place of Dedication; at leaſt,
+<note place="margin">1 Sam. 1.24.</note> 
+               <hi>Hannah</hi> was of that Opi<g ref="char:EOLhyphen"/>nion, when ſhe offer'd her <hi>Samuel,</hi> the Son of her Prayers, in the <hi>Houſe</hi> of the <hi>Lord,</hi> with a Deſign of Dedicating him there to his Service. 3. In the Prayer of Conſecration it ſelf, it is no ſmall Argument to prevail for God's Aſſent to the Pe<g ref="char:EOLhyphen"/>titions offer'd in the behalf of the Child, to be Regenerated; That he would <hi>regard the Prayers of</hi> his <hi>Congregation, and comply therewith, in San<g ref="char:EOLhyphen"/>ctifying the Water, to the Myſtical Waſhing away of Sin,</hi> &amp;c. Now this Congregation, whoſe Prayers are thought thus efficacious, ought to be ſuch an one,
+<note place="margin">Pag. 31,</note> (as the above-cited Author ob<g ref="char:EOLhyphen"/>ſerves,) of which the Miniſter may ſafely and truly ſay, <hi>Thy Congregation;</hi> for there is certainly the greateſt Validity in the Prayers of God's Congregation: But there is great Reaſon to think, that thoſe are not ſuch, which are ga<g ref="char:EOLhyphen"/>ther'd in a private Houſe, on ſuch an Account; ſince the Church has not appointed it a fit place for <hi>Baptiſm,</hi> unleſs, as was aboveſaid, in Caſes of extream Neceſſity. So that Private Houſes be<g ref="char:EOLhyphen"/>ing not ordinarily allow'd, much leſs commanded
+<pb n="18" facs="tcp:45772:13"/>to be made uſe of as ſuch; nay, oftentimes <hi>per<g ref="char:EOLhyphen"/>verſely</hi> appropriated by ſome, to that Uſe, a<g ref="char:EOLhyphen"/>gainſt the expreſs Authority of the Church, and earneſt Sollicitation of thoſe that are ſet over them; whoever aſſemble there, in ſuch an ille<g ref="char:EOLhyphen"/>gal manner,
+<note place="margin">Vid. <hi>Balſ. &amp; Zon.</hi> (apud Be<g ref="char:EOLhyphen"/>veregium, Tom. 1. p. 191.) ad Can. 31. Concil. 6. in Trullo. St. Matth. 18.20.</note> muſt be thought as really guilty of a <hi>Diſorder</hi> in the <hi>Church,</hi> as thoſe who meet in prohibited Numbers and Places are of a <hi>Riot</hi> in the <hi>State.</hi> Nor will that pitiful Plea from our Saviour's (ignorantly miſapply'd) Promiſe, <hi>Where Two or Three are gather'd together in my Name, there am I in the midſt of them,</hi> ſtand them in any ſtead; Since we muſt not be allow'd to ar<g ref="char:EOLhyphen"/>gue from extraordinary, to ordinary and com<g ref="char:EOLhyphen"/>mon Caſes; for though not a Tittle of our Sa<g ref="char:EOLhyphen"/>viour's Words ſhall fall to the Ground, but he will be with his all the World over, till the Con<g ref="char:EOLhyphen"/>ſummation of all things; yet this Text muſt be underſtood of them, as duly circumſtantiated, with reſpect to <hi>Time, Place,</hi> &amp;c. Hence the Reaſon of no Conſidering Perſon will give him leave to ſay, Becauſe our Saviour ſupported his Diſciples with theſe Words, whom he foreſaw Drooping, ere-long, under a Perſecuted Condi<g ref="char:EOLhyphen"/>tion; therefore they may make uſe of it upon every <hi>Caprichio,</hi> (as too many among our Laity actually do,) in the more flouriſhing State of the Church, againſt the known Orders of the
+<pb n="19" facs="tcp:45772:13"/>Eſtabliſhment in it, to which, in many the like Caſes, they readily ſubmit upon thoſe very Mo<g ref="char:EOLhyphen"/>tives which are uſually urg'd for their Obedience to this Injunction. But, 4. The laſt Abſurdity committed in uſing our Publick Form at <hi>Home,</hi> is, <hi>the Receiving the Child:</hi> When the Miniſter, ha<g ref="char:EOLhyphen"/>ving firſt Nam'd it, and Baptiz'd it, holding it ſtill in his Hand, uſes theſe Words of Admiſſion, <hi>We receive this Child into the Congregation of Chriſt's Flock,</hi> &amp;c. Which Reception doth not only mean, into the whole Body of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Church,</hi> but as well that <hi>Repreſentative Part</hi> then preſent, and Conſenting to it for the Whole. And the Miniſter's Embracing the Child, is for the ſame End, as the Impoſition of Hands in Ba<g ref="char:EOLhyphen"/>ptiſm was of Old; which, <hi>Durantus</hi> tells us,
+<note place="margin">De Rit. Eccl. Cath. Lib. 19. cap. 1.</note> ſig<g ref="char:EOLhyphen"/>nified the Reconciliation, by which he that was without the Church a Child of Wrath, according to our Catechiſm, was in the Church receiv'd into the Church's Favour, and made a Child of Grace.</p>
+            <p>Thus have I laid before you the Commands of our Church, with relation to <hi>Publick Baptiſm,</hi> together with the <hi>Danger</hi> and <hi>Abſurdity</hi> of our Breach of them; which was the Firſt Particular: I haſten through the following Ones with all ima<g ref="char:EOLhyphen"/>ginable Brevity, and proceed to ſhew,</p>
+            <p n="2">2. That She has done nothing herein, but upon very extraordinary Motives, in that her
+<pb n="20" facs="tcp:45772:14"/>Thoughts, with reſpect to the Buſineſs in hand, accord with the <hi>Eaſtern,</hi> and all the <hi>Weſtern</hi> Churches now in the World.</p>
+            <p>As for the <hi>Eaſtern,</hi>
+               <note place="margin">Chap. 7.</note> Sir <hi>Paul Ricaut,</hi> in his <hi>Pre<g ref="char:EOLhyphen"/>ſent State of the</hi> Greek Church, tells us, That <hi>That hath, from long Antiquity, practis'd, on the Eighth Day to preſent their Children at the</hi> Church-Porch, <hi>to receive the Bleſſing of the Prieſt,</hi> &amp;c. And 'tis notoriouſly known, that the Practice of the Church of <hi>Rome,</hi> here in the <hi>Weſt,</hi> is agreeable to her Conſtitutions:
+<note place="margin">Vid. Rituale juſſu Pauli 5. Colon. Edit.</note> 
+               <hi>Cum proprius locus hujus Sa<g ref="char:EOLhyphen"/>cramenti ſit Eccleſia Parochialis, nullus extra eam, niſi forte in caſu neceſſitatis baptizet.</hi> Nor doth She permit any, but in Caſes of <hi>Extream Neceſſity,</hi> to be baptiz'd at <hi>Home;</hi> and they, upon Reco<g ref="char:EOLhyphen"/>very, are ſtill brought to <hi>Church</hi> afterwards. The <hi>French</hi> (as well as the other <hi>Reform'd Churches</hi> abroad,
+<note place="margin">
+                  <hi>Il eſt a noter qu'un doit ap<g ref="char:EOLhyphen"/>porter les En<g ref="char:EOLhyphen"/>fans, pour ba<g ref="char:EOLhyphen"/>ptizer; ou le Di<g ref="char:EOLhyphen"/>manche, ou les autres jours au Sermon: a fin que comme</hi> le Bapteſme eſt une reception ſolennelle en Egliſe il ſe faſ<g ref="char:EOLhyphen"/>ſe en la pre<g ref="char:EOLhyphen"/>ſence de l' Aſ<g ref="char:EOLhyphen"/>ſemble; v. <hi>La Forme d' Admi<g ref="char:EOLhyphen"/>niſtrer le Bap<g ref="char:EOLhyphen"/>teſme.</hi>
+               </note> conformable to which is their Practice (as many of them as have Churches) in this City) not only order this Uſage in their <hi>Service-Books,</hi> but, as we do, give their Reaſons for it there likewiſe: <hi>Becauſe</hi> * Baptiſm, ſay they, <hi>is a ſolemn Admiſſion into the Church of Chriſt, and therefore ought to be done in the Face of the</hi> Aſſembly, who are to be Witneſſes of the Matter. Nay, The <hi>Engliſh</hi> Congregation which was gather'd at <hi>Ge<g ref="char:EOLhyphen"/>neva,</hi> in the Year 1558. upon an unjuſt Diſ<g ref="char:EOLhyphen"/>like of ſome Things in our Liturgy and Church-Government
+<pb n="21" facs="tcp:45772:14"/>here, in their <hi>Form of Prayer,
+<note place="margin">See <hi>The Order of Baptiſm,</hi> Rubr. 1.</note> and Adminiſtration of the Sacraments,</hi> approv'd by <hi>J. Calvin</hi> himſelf, tells us poſitively, That <hi>it is evi<g ref="char:EOLhyphen"/>dent from God's Word, that the Sacraments are not Ordain'd of him, to be us'd in</hi> Private Corners, <hi>as Charms or Sorceries; but left to the</hi> Congregation, <hi>and neceſſarily annex'd to God's Word, as Seals of the ſame: Therefore the Infant, which is to be ba<g ref="char:EOLhyphen"/>ptiz'd, ſhall be brought to</hi> Church <hi>on the Day appoin<g ref="char:EOLhyphen"/>ted, to Common Prayer, and Preaching,</hi> &amp;c. And (which I hope will be for the Conviction of thoſe among us, who are very ready to charge every Perſon or Thing with <hi>Popery,</hi> or <hi>Superſtition</hi> at leaſt, that doth but look towards the Eſtabliſh<g ref="char:EOLhyphen"/>ing or Retrieving any of the Solemnities in God's Worſhip) Even the <hi>Presbyterian Directory,</hi> in the late Times of Confuſion, expreſly Ordains,
+<note place="margin">In the Chap. Entituled, <hi>Of Baptiſm,</hi> p. 19.</note> That <hi>Baptiſm be not Adminiſter'd in</hi> Private Places, <hi>or</hi> Privately, <hi>but in the Place of</hi> Publick Worſhip, <hi>and in the</hi> Face <hi>of the</hi> Congregation, <hi>where the People may moſt conveniently ſee and hear:</hi> Which the Framers of it likewiſe tell us, was reſolv'd upon,
+<note place="margin">See the <hi>Preface to the Directory for the Publick Worſhip of God throughout</hi> En<g ref="char:EOLhyphen"/>gland, Scot<g ref="char:EOLhyphen"/>land <hi>and</hi> Ire<g ref="char:EOLhyphen"/>land. Miniſt. of Pub. Bap. p. 43.</note> 
+               <hi>After earneſt and frequent Calling upon the Name of God; and after much Conſultation, not with Fleſh and Blood, but with his Holy Word.</hi> Purſuant to which Reſolutions, as it ſhould ſeem, we are told, that as for their Brethren in <hi>Scotland,</hi> no Length of Way, nor ſcarce any Indiſpoſition, can prevail with
+<pb n="22" facs="tcp:45772:15"/>them to keep their Children from the <hi>Church;</hi> but they carry them ſeveral Miles to be <hi>baptiz'd,</hi> that it may be done in <hi>Publick:</hi> And that they thought it an inexpreſſible Favour, when a Toleration was granted them for <hi>Private Baptiſm</hi> in caſe of <hi>Great Neceſſity.</hi> But,</p>
+            <p n="3">3. There is not only a Conſent between ours and theſe Churches in this Particular, but the Pra<g ref="char:EOLhyphen"/>ctice of all of them is grounded upon the earlieſt Antiquity: For the Proof of which, I ſhall not now trouble you with a pompous Oſtentation of Authorities; though I might quote to you <hi>Juſtin Martyr,</hi> St. <hi>Athanaſius, Gregory Nazianzen, Am<g ref="char:EOLhyphen"/>broſe, Chryſoſtom
+<note n="*" place="margin">Vid. Cocceii Theſ. Cathol. Tom. 2. lib. 5. Art. 11. <hi>de Baptiſteriis.</hi>
+                  </note>, &amp;c.</hi> with Councils
+<note n="†" place="margin">
+                  <hi>Pro caeteris notetur praecipuè</hi> Can. 59. <hi>antiq. illius</hi> Conc. Conſtant. 3. <hi>ſic Stat.</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, General and Pro<g ref="char:EOLhyphen"/>vincial; but deſire the
+<note n="*" place="margin">Pag. 11. <hi>from</hi> Cave<hi>'s Primitive Chri<g ref="char:EOLhyphen"/>ſtianity,</hi> Part 1. Chap. 10. Pag. 311.</note> above<g ref="char:EOLhyphen"/>mention'd Citation may ſerve, inſtead of many: Where 'twas ſaid, That <hi>the Place where this ſolemn Action was perform'd, was at firſt unlimited; any place where there was Water; as, a Pond, Lake, River, or Spring, ſerving turn:</hi> But that always they <hi>choſe a Place for Baptiſm as near as might be to that of the</hi> Publick Aſſembly; <hi>for 'twas ſeldom done</hi> (even in the very Infancy of the Church) <hi>without the Preſence of the Congre<g ref="char:EOLhyphen"/>gation.</hi> For which Reaſon it was, that in An<g ref="char:EOLhyphen"/>cient
+<pb n="23" facs="tcp:45772:15"/>Times, as we are there likewiſe told,
+<note place="margin">Id. Ibid. p 312.</note> 
+               <hi>their</hi> Baptiſteria, <hi>or</hi> Fonts, <hi>as we call them, were built at firſt near the Church, then in the Church-Porch, to repreſent Baptiſm's being the</hi> Entrance <hi>into the Myſtical Church; and afterwards in the Church it ſelf.</hi> At which Places, Baptiſm was of Old Ad<g ref="char:EOLhyphen"/>miniſter'd only on <hi>Eaſter</hi> and <hi>Whit</hi>-Sunday, as many Councils formerly order'd; becauſe (as one of them is expreſs) at thoſe Solemn Times there were the moſt numerous Aſſemblies;
+<note place="margin">
+                  <hi>De Catechume<g ref="char:EOLhyphen"/>nis Baptizandis id ſtatutum eſt, ut in Paſchae vel Pentecoſtes ſo<g ref="char:EOLhyphen"/>lennitate, quan<g ref="char:EOLhyphen"/>to majoris cele<g ref="char:EOLhyphen"/>britatis major eſt celebritas, tanto magis ad Bapti<g ref="char:EOLhyphen"/>zandum veniant.</hi> Conc. Gerund. Can. 3.</note> and by Conſequence, the Adminiſtration of this ho<g ref="char:EOLhyphen"/>ly Rite would be then more for the Edification of the Church.</p>
+            <p>Where, by the way, we may obſerve the Riſe of <hi>Private Baptiſm</hi> in the Primitive Church, to<g ref="char:EOLhyphen"/>gether with the Reaſonableneſs of its Allowance then: For, they reſerving the Baptization of all their <hi>Catechumens</hi> till thoſe two great Feſtivals, if any of them in the mean while happen'd to be in great danger of Perſecution,
+<note place="margin">
+                  <hi>Qui enim in dif<g ref="char:EOLhyphen"/>crimen naufra<g ref="char:EOLhyphen"/>gii, hoſtilitatis incurſum, obſi<g ref="char:EOLhyphen"/>dionis ambgu<g ref="char:EOLhyphen"/>um, &amp; cujuſli<g ref="char:EOLhyphen"/>bet corporalis ae<g ref="char:EOLhyphen"/>gritudinis deſpe<g ref="char:EOLhyphen"/>rationem incide<g ref="char:EOLhyphen"/>rint, &amp; ſibi unico credulitatis au<g ref="char:EOLhyphen"/>xilio popoſce<g ref="char:EOLhyphen"/>rint ſubveniri, eodem, quo poſ<g ref="char:EOLhyphen"/>cunt, momento temporis, expetitae regenerationis praemia conſequuntur.</hi> Siricius Papa ad Himerium Tarraco<g ref="char:EOLhyphen"/>nenſem.</note> as was probable in the firſt Ages of the Church; Incurſions of Bar<g ref="char:EOLhyphen"/>barous Enemies, no leſs frequent in the ſucceed<g ref="char:EOLhyphen"/>ing Times, preſent Death, by Sickneſs, or any other Means; they granted them the Liberty of being baptiz'd immediately, fearful leſt at any time they ſhould go out of the World, depriv'd of the Benefit of this Holy Laver.</p>
+            <pb n="24" facs="tcp:45772:16"/>
+            <p>But, God be thanked, we are under no ſuch <hi>Apprehen<g ref="char:EOLhyphen"/>ſions</hi> at preſent; though we were then, when this Cu<g ref="char:EOLhyphen"/>ſtom of <hi>Chriſtning at Home</hi> firſt got Footing amongſt us; no ſuch Practice being heard of in the <hi>Church</hi> of <hi>England,</hi> till the late Times of our horrible Diſtractions. Which bare Conſideration, <hi>viz.</hi> of the Means whereby this U<g ref="char:EOLhyphen"/>ſage was here introduc'd, might, one would think, have long ſince render'd it odious and abominable, to thoſe eſpecially, who have the Conſcience ſtill left them to ab<g ref="char:EOLhyphen"/>hor the <hi>lewd</hi> Proceedings of thoſe Days, when <hi>Wild En<g ref="char:EOLhyphen"/>thuſiaſm,</hi> and <hi>Blind Zeal</hi> juſtled all ſober Religion al<g ref="char:EOLhyphen"/>moſt, with God's <hi>Solemn Worſhip,</hi> out of theſe three Kingdoms. But,</p>
+            <p n="4">4ly. and <hi>Laſtly,</hi> The Conſtitutions of our Church, which order Baptiſm to be <hi>Publickly</hi> Celebrated, do not only bear a juſt Correſpondence with the Practice of the <hi>Eaſtern,</hi> and all the <hi>Weſtern</hi> Churches now in the World, as grounded upon the earlieſt Antiquity: But that An<g ref="char:EOLhyphen"/>tiquity has no leſs ſolid a Baſis, than the firmeſt Reaſon, to ſupport it; Three of which I ſhall, for the preſent, only hint at, leaving the farther Conſideration of them, and others as obvious, to your own more ſerious Re<g ref="char:EOLhyphen"/>flections. The</p>
+            <p n="1">1.
+<note place="margin">Concil. Gerund. <hi>bab.</hi> Conc. Anno. 517.</note> Of which, is, That <hi>Publick Baptiſm</hi> is more for <hi>E<g ref="char:EOLhyphen"/>diſication.</hi> This the Primitive Church was ſenſible of, as you find from the <hi>Canon</hi> of the <hi>Council</hi> juſt now men<g ref="char:EOLhyphen"/>tion'd, which (with a great number beſides) orders <hi>Ba<g ref="char:EOLhyphen"/>ptiſm</hi> to be perform'd on <hi>Eaſter</hi> and <hi>Whit-Sundays only;</hi> becauſe then the Congregations were fuller. This our Church is very ſenſible of, in like manner, when She orders it to be adminiſtred ordinarily upon <hi>Sundays, or Holy days, when the greateſt Number of People are met to<g ref="char:EOLhyphen"/>gether; that all there preſent may be put in mind of their own Profeſſion made to God in their Baptiſm.</hi>
+               <note place="margin">Rubr. 1. <hi>in the Office for Pub<g ref="char:EOLhyphen"/>lick Baptiſm.</hi>
+               </note> This the <hi>French Reformed Church</hi> is highly ſenſible of, when, in her laſt <hi>Rubrick,</hi> in <hi>the Office for Publick Baptiſm,</hi> She or<g ref="char:EOLhyphen"/>ders,
+<pb n="25" facs="tcp:45772:16"/>That <hi>the Miniſter, Baptizing in the Church,
+<note place="margin">
+                     <hi>Le tout ſe dit a haute voix en langue vulgaire, d'autant que le Peuple qui aſ<g ref="char:EOLhyphen"/>ſiſte la doit eſtre temoin de ce qui s'y fait a quoi eſt requiſe intel<g ref="char:EOLhyphen"/>ligence; &amp; auſſi aſin que tous ſoient edifiez, en reconnoiſſant,</hi> &amp;c La Forme d' Adminiſtrer le Bapteſme. Rubr. 1. <hi>in the Office for Pub<g ref="char:EOLhyphen"/>lick Baptiſm.</hi>
+                  </note> ſpeak as loud as he can, in the Vulgar Tongue, that all may be edified: En reconnoiſſant &amp; reduiſant en memoire, quel'eſt le fruit, &amp; l'uſage de leur Bapteſme.</hi> This, in a Word, all the Churches in the World are ſenſible of, their Cuſtom be<g ref="char:EOLhyphen"/>ing principally founded upon this Motive. But, then,</p>
+            <p n="2">2. The very <hi>Nature</hi> and <hi>Deſign</hi> of <hi>Baptiſm</hi> beſpeaks the Reaſonableneſs of its being done in <hi>Publick:</hi> It is, as has been ſaid, our ſolemn <hi>Admiſſion</hi> into the Chriſtian Church, and therefore ought to be done <hi>openly;</hi> that as our own inſtructs us, <hi>the Congregation then preſent may te<g ref="char:EOLhyphen"/>ſtifie the Receiving of them that are newly baptiz'd into the Number of Chriſt's Church.</hi> And,</p>
+            <p n="3">3. We may conſider, that <hi>Baptiſm</hi> contains a <hi>Publick Profeſſion of our Faith in Chriſt,</hi> by our Godfathers and Godmothers. Now, the <hi>Profeſſion of our</hi> Faith, the more publick it is, the more agreeable is it to the Nature of <hi>Baptiſm,</hi> and the Conſtitution of the Chriſtian Church; which is a <hi>Viſible Society,</hi> profeſſing the Faith of Chriſt. And when can it poſſibly be more <hi>publick,</hi>
+               <note place="margin">Pſal. 116.13.</note> than <hi>in the Courts of the Lord's Houſe?</hi> The <hi>Publick Congregation</hi> for God's Worſhip, held by <hi>Publick Authority,</hi> in Places <hi>pub<g ref="char:EOLhyphen"/>lickly</hi> ſet a-part for that purpoſe; when the End of Aſ<g ref="char:EOLhyphen"/>ſembling there, is, the more ſolemn Celebration of God's Honour; that Devout Perſons may, with one Mind, and one Mouth, glorifie his Name together.</p>
+            <p>Thus have I gone through all the Particulars I deſign'd to ſpeak to: And have ſhewn,</p>
+            <p n="1">I. Very briefly, The Nature of <hi>Baptiſm</hi> in general.</p>
+            <p n="2">II. Who were the <hi>Perſons Commiſſon'd</hi> by our Saviour to <hi>baptize.</hi>
+            </p>
+            <p n="3">III. Who ought to be <hi>baptiz'd.</hi>
+            </p>
+            <p n="4">IV. After what <hi>Form.</hi> And,</p>
+            <p n="5">V. More at large, at what <hi>Time,</hi> and in what <hi>Place.</hi>
+            </p>
+            <p>I ſhould now put an End to this Diſcourſe, but that it may be expected, ſince I have been ſo copious in the De<g ref="char:EOLhyphen"/>fence
+<pb n="26" facs="tcp:45772:17"/>of <hi>Publick Baptiſm,</hi> that I ſhould ſay ſomewhat by way of Obviating thoſe <hi>Pretences,</hi> which have been ſo powerful, as to uphold the <hi>contrary Practice</hi> amongſt too many of us, for ſome Years laſt paſt.</p>
+            <p>And, indeed, were it not for this Reaſon, notwith<g ref="char:EOLhyphen"/>ſtanding their Prevalency, I ſhould have thought the beſt of them too weak and trifling, ſuch as deſerv'd rather to be paſs'd over in Silence, or, at moſt, anſwer'd by a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> in <hi>Whiſpers,</hi> as they are commonly urg'd to him, rather than mention'd by way of Confutation before ſuch an <hi>Auditory</hi> as this. But, ſuch as they are, they may be reduc'd to Three chiefly; either of the <hi>Richer Sort,</hi> the <hi>Poorer,</hi> or <hi>Both indifferently.</hi>
+            </p>
+            <p>The <hi>Richer Sort</hi> uſually preface their <hi>Reſolutions</hi> about a <hi>Private Chriſtning,</hi> with an Intimation of their ſincere Intentions towards the <hi>Church</hi> of <hi>England,</hi> in which they were born and bred, and reſolve, by the Grace of God, to die in too: But, as for the Buſineſs in hand, the Child is at preſent <hi>indiſpos'd,</hi> and the <hi>Goſſips</hi> are now in the Way, who cannot ſo well attend another Time; and therefore it is convenient it ſhould be done <hi>immediately,</hi> without making <hi>any farther Trouble on't.</hi>
+            </p>
+            <p>To ſuch it may eaſily be anſwer'd, If they are ſo well affected, as they pretend, to the <hi>Church</hi> of <hi>England,</hi> or rather the <hi>Church</hi> of <hi>Chriſt,</hi> let them ſhew their Affe<g ref="char:EOLhyphen"/>ction, by a ready Compliance to the wholſom Injun<g ref="char:EOLhyphen"/>ctions of this in general, with relation to <hi>Publick Ba<g ref="char:EOLhyphen"/>ptiſm;</hi> and that in particular, which has provided a <hi>Pri<g ref="char:EOLhyphen"/>vate Form,</hi> purpoſely to be us'd in ſuch Exigencies; and ſatisfies them there,
+<note place="margin">Rubr. 5th. in that Office.</note> That <hi>the Child ſo baptiz'd, is lawful<g ref="char:EOLhyphen"/>ly and ſufficiently baptiz'd, and ought not to be baptiz'd a<g ref="char:EOLhyphen"/>gain:</hi> But only deſires, upon Recovery, it be brought <hi>to Church</hi> afterwards, for the Reaſons juſt mention'd; and there receive the high Honour of being orderly and ſo<g ref="char:EOLhyphen"/>lemnly admitted into Chriſt's Flock. But, to be plain, 'Tis not the Child's real Indiſpoſition, but the unhappy
+<pb n="27" facs="tcp:45772:17"/>Bent of the Parents too perverſe Inclinations oftentimes, that make them take theſe Meaſures; ſince 'tis notorious, that, of thoſe who dar'd not venture their Infant two or three Doors to <hi>Church,</hi> in the <hi>cold Air</hi> of this <hi>City,</hi> many have ſpeedily after ſent it out ſome Miles in a <hi>much colder,</hi> to be taken Care of in the <hi>Country.</hi> And then, as for the Excuſe of wanting thoſe that will ſtand <hi>Godfathers</hi> and <hi>Godmothers,</hi> 'tis well known, that Perſons of any Faſhion, are not with<g ref="char:EOLhyphen"/>out Numbers, ambitious of paying that <hi>Complemental Piece of Reſpect to them;</hi> (for, to our Shame be it ſpoken, 'tis too frequently look'd upon as no more.)</p>
+            <p>On the other ſide, Whilſt we have <hi>gloſs'd, varniſh'd Falſ<g ref="char:EOLhyphen"/>hood</hi> from the <hi>Rich,</hi> ſuitable to their Circumſtances, we meet with <hi>ſimple, naked Truth</hi> from the <hi>Poor:</hi> What was <hi>pretended Indiſpoſition</hi> in the former, is <hi>downright Shame</hi> in the latter,</p>
+            <p>Truly, though (they thank God) they want nothing, yet they are not ſo well to paſs in the World, as to make a <hi>Figure in't,</hi> and upon that Account, being unable to pro<g ref="char:EOLhyphen"/>vide things <hi>handſom enough</hi> for their <hi>Company,</hi> and a <hi>Publick Appearance,</hi> they don't care to be <hi>ridicul'd</hi> and <hi>laugh'd</hi> at by their Neighbours, till they can.</p>
+            <p>To which 't may be reply'd, in a Word, That the <hi>Vanity</hi> of ſome in a higher Rank, ought not to be a Rule for thoſe in a meaner Condition; much leſs ſhould the Avoiding of it be objected to them; then which, nothing can more advance their Reputation among Perſons of <hi>Prudence</hi> and <hi>Sobriety;</hi> whoſe Cenſures, in ſuch Caſes, are alone to be regarded.</p>
+            <p>And, indeed, were thoſe <hi>Extravagant Expences</hi> retrench'd, which are every where too common on ſuch Occaſions, and have been condemn'd in three late <hi>Councils,</hi>
+               <note place="margin">Conc. Colon. <hi>Decr.</hi> 15. Conc. Mogunt. <hi>Can.</hi> XVI. Conc. Mediol. 5<hi rend="sup">tum</hi>. cap. <hi>Quae ad Baptiſ<g ref="char:EOLhyphen"/>mum pertinent.</hi>
+               </note> even by the <hi>Cor<g ref="char:EOLhyphen"/>rupt Church</hi> of <hi>Rome;</hi> we ſhould quickly find the Thoughts of moſt People, which are now wholly bent upon <hi>Dreſs, Shew,</hi> and the <hi>Pomp</hi> of the Buſineſs, turn'd a contrary way; and the chief Solemnity of Chriſtnings would then lie, in having the <hi>Religious</hi> Part of them perform'd more <hi>decently,</hi> with reſpect to Time, Place, <hi>&amp;c.</hi> than generally now it is.</p>
+            <pb n="28" facs="tcp:45772:18"/>
+            <p>But, 3. The <hi>Main, Topping</hi> Argument from both Sorts, is, That ſuch or ſuch Great Men have not ſcrupl'd to <hi>Chri<g ref="char:EOLhyphen"/>ſten</hi> in <hi>Private:</hi> Why therefore ſhould others refuſe it, who are not nigh ſo much <hi>Dignify'd,</hi> nor <hi>Diſtinguiſh'd?</hi>
+            </p>
+            <p>To this I anſwer, Laſtly, When thoſe <hi>Eminent Perſons</hi> declin'd their Rule, they did it with Reaſon, or without.</p>
+            <p>If without, Then their Example ought no more to be a Guide to others, than the unwarrantable Actions of a Su<g ref="char:EOLhyphen"/>perior Magiſtrate in any Corporation, ſhould be propos'd to the Imitation of an Inferior one; for, however they may both, by the Connivance of the Higher Powers, or any other way, eſcape the Puniſhment due to them for the Breach of the Laws of their Country; yet there is a Court of Con<g ref="char:EOLhyphen"/>ſcience in each of their Breaſts, that will not acquit them here, and a Sentence to be awarded them by the higheſt Tribunal hereafter.</p>
+            <p>If they did it with Reaſon, Then it muſt be preſum'd 'twas for the ſame that made <hi>Moſes</hi> counive at ſome Irregularities in the <hi>Jews; viz.</hi> the <hi>Hardneſs of their Hearts,</hi> in hopes to bring them, by this Means, at length, to an entire Conformity. For, to that deplorable Condition are we arriv'd, through a complicated Degeneracy of Principles and Manners, peculiar to this Age, that unleſs a <hi>Clergy-man</hi> will now and then ſub<g ref="char:EOLhyphen"/>mit to undue Compliances of this nature, ſome <hi>proud, pee<g ref="char:EOLhyphen"/>viſh Perſons</hi> there are, who ſhall make it their whole Study and Endeavour (by ſpreading about malicious <hi>Innuendo's,</hi> and palpable <hi>
+                  <g ref="char:V">Ʋ</g>ntruths,</hi> with other indirect Methods) to render his <hi>Preaching, Prayers, Adminiſtration of the other Sacrament,</hi> his whole <hi>Miniſtry</hi> ineffectual. But, God be thanked, this is but the Caſe of a few; the reſt of the <hi>Laity</hi> generally ſtan<g ref="char:EOLhyphen"/>ding out upon no other Ground, than the Strength of that <hi>bad Cuſtom</hi> to the contrary, which many wiſh heartily were broke, but only are ſhy, each of them, of firſt attempting it.</p>
+            <p>Far be it therefore from me, to apply to the Preſent State of our Church, with relation to this Affair, what was ſaid, by one of the
+<note n="*" place="margin">Conc. Colon. Anno 1549. V. <hi>Inter Cenſu<g ref="char:EOLhyphen"/>ras &amp; decreta tata pro abuſu<g ref="char:EOLhyphen"/>um &amp; vitiorum ad Synodi judi<g ref="char:EOLhyphen"/>cium perlatorum emendatione,</hi> Decr. 15.</note> 
+               <hi>Councils</hi> laſt mention'd, of the <hi>Clergy</hi> and
+<pb n="29" facs="tcp:45772:18"/>
+               <hi>Laity</hi> in the <hi>Dioceſs</hi> of <hi>Cologne,</hi> where <hi>Private Baptiſm</hi> began to make Head: <hi>Deteſtanda eſt non minus</hi> Laicorum ſuperbia, <hi>quam</hi> Paſtorum <hi>eis obſequentium</hi> adulatio, <hi>qui contemptâ Ec<g ref="char:EOLhyphen"/>cleſiâ proles ſuas volunt in</hi> domibus ſuis <hi>baptizari, &amp; eo Ba<g ref="char:EOLhyphen"/>ptiſmi aquam deferri.</hi> No, it is not owing to the <hi>baſe Eaſineſs</hi> of our <hi>Clergy,</hi> in making Conceſſions of this nature; nor to the <hi>Pride</hi> of moſt of our <hi>Laity,</hi>
+               <note place="margin">
+                  <hi>Private Baptiſm</hi> &amp;c. <hi>is ſince be<g ref="char:EOLhyphen"/>come a</hi> Mark <hi>of</hi> Vanity, <hi>and a piece of</hi> Affect<g ref="char:EOLhyphen"/>ed State. <hi>Bur<g ref="char:EOLhyphen"/>net</hi>'s Hiſt. Re<g ref="char:EOLhyphen"/>form Abridg<g ref="char:EOLhyphen"/>ed, Lib. 2. pag. 63.</note>(though ſome muſt be thought to make it a <hi>Piece of State</hi>) that they have had a long while, and ſtill have in too many places, their Children ge<g ref="char:EOLhyphen"/>nerally <hi>Chriſtn'd at Home,</hi> but to the great difficulty of brea<g ref="char:EOLhyphen"/>king a <hi>Cuſtom;</hi> which, as it began in a <hi>very ill Time,</hi> and has more <hi>unhappily</hi> prevail'd ever ſince; ſo it will be <hi>moſt diſmal</hi> in its Conſequences, if the Obſervation of a great Doctor in our <hi>Church</hi> holds good,<note> Dr. <hi>Sherlock</hi>'s Relig. Aſſemb. Part 2. ch. 4. pag. 293.</note> That <hi>there is not a more ready way to root out Chriſtianity it ſelf among us, than</hi> (thus) <hi>to deſtroy the Solemnities of God's Worſhip.</hi>
+            </p>
+            <p>However therefore ſome Men, when preſs'd with Argu<g ref="char:EOLhyphen"/>ments of this kind from the Pulpit, or otherwiſe, are apt to ſtifle or ſhuffle them off, with crying out in general of <hi>a Ho-Life, a Holy Life,</hi> as the only <hi>Stable Support</hi> of Chriſtianity. Sure I am (though what they ſay is true) yet they are ne<g ref="char:EOLhyphen"/>ver like to be any great Pillars of it, who are deaf to all In<g ref="char:EOLhyphen"/>formations about, and conſequently neglect all the Means of Practice, amongſt which, a <hi>due Administration</hi> of God's <hi>Holy Sacraments</hi> has ſtill been reckon'd none of the leaſt.</p>
+            <p>The <hi>Application</hi> from all, what has been ſaid, is this, in ſhort; That ſince there is no Shadow of Reaſon for <hi>Private Baptiſm,</hi> and no Bar againſt bringing this <hi>Ancient,</hi> this <hi>Catho<g ref="char:EOLhyphen"/>lick,</hi> this <hi>Religious,</hi> this <hi>almost neceſſary Practice</hi> of <hi>Baptizing in Publick,</hi> into a greater Eſteem amongſt us, than the piti<g ref="char:EOLhyphen"/>ful Plea of a <hi>prevailing Custom</hi> to the contrary, which might be eaſily overthrown by the <hi>Encouragement,</hi> and eſpecially the <hi>Example</hi> of <hi>Rich Men;</hi> whom their Meaner Neighbours would as readily follow in <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ous <g ref="char:V">Ʋ</g>ſages,</hi> as in <hi>Civil Fa<g ref="char:EOLhyphen"/>ſhions.</hi> I ſay, ſince there is no other Bar againſt <hi>Publick Ba<g ref="char:EOLhyphen"/>ptiſm,</hi> but this pitiful Plea, it may be worth while for all
+<pb n="30" facs="tcp:45772:19"/>Perſons of <hi>Character</hi> and <hi>Station</hi> to conſider, whether, as God has beſtow'd on them more <hi>diſtinguiſhing Marks</hi> of his Favour, than on others round about them, they ought not (were it only by way of Gratitude) to <hi>ſignalize</hi> them<g ref="char:EOLhyphen"/>ſelves more eſpecially, and become <hi>forwarder Inſtances</hi> in promoting his Glory all the ways imaginable: A fair Opportunity of doing which, in no ſmall meaſure, they have in the Matter before us, which tends ſo much, as we have ſeen, to the <hi>Good</hi> of his <hi>Church,</hi> in the <hi>Edification</hi> of <hi>particular Chriſtians,</hi> and (which is little thought on) the <hi>Welfare</hi> of their <hi>own Souls</hi> too.</p>
+            <p>For,
+<note place="margin">
+                  <hi>See the Prayer for Chriſt's Church Mili<g ref="char:EOLhyphen"/>tant, in the</hi> Communion-Service.</note> Whereas they beſeech God every <hi>Lord's-Day,</hi> and <hi>Holy-Day,</hi> that he would <hi>give his Grace to all</hi> Biſhops <hi>and</hi> Curates, <hi>that they</hi> Rightly <hi>and</hi> Duly <hi>Adminiſter his Holy Sa<g ref="char:EOLhyphen"/>craments;</hi> if in this, as well as other <hi>Petitions,</hi> their <hi>Hearts</hi> go along with their <hi>Lips,</hi> and their <hi>Endeavours</hi> with both; if they do not <hi>fruſtrate</hi> this his <hi>Grace</hi> here, by diſcouraging his <hi>Miniſters</hi> in a <hi>faithful Diſcharge</hi> of their Office, they may then expect to be at length Partakers with him in Everlaſt<g ref="char:EOLhyphen"/>ing Glory hereafter.</p>
+            <p>Now, Conſider we, what has been ſaid, and God Al<g ref="char:EOLhyphen"/>mighty give every one of us a <hi>right Judgment</hi> in this <hi>Parti<g ref="char:EOLhyphen"/>cular,</hi> as wellas in all other Matters; That, as he hath left in his Church but two Sacraments,
+<note place="margin">Church-Cate<g ref="char:EOLhyphen"/>chiſm.</note> 
+               <hi>as Outward and Viſible Signs of his Inward and Spiritual Grace,</hi> we may none of us, in the great Day of <hi>Viſitation,</hi> be found among thoſe, who have either <hi>ſcandalouſly neglected</hi> the one, or <hi>huddl'd</hi> up the other in a <hi>Corner.</hi>
+            </p>
+            <p>Now, to the Individual and Ever-bleſſed Trinity, Three Perſons, but One Glorious, Almighty Lord God, be aſcribed, as is moſt due, by us, and his People every where, all poſſible Adoration, Honour and Glory, <hi>As it was in the Beginning, is now, and ever ſhall be, World without End.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45772:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
